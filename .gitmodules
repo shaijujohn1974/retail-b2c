@@ -1,0 +1,4 @@
+[submodule "retail-b2c-buyerapp"]
+	path = retail-b2c-buyerapp
+	url = https://github.com/shaijujohn1974/retail-b2c-buyerapp.git
+	branch = main
