@@ -14,3 +14,7 @@
 	path = retail-b2c-developerguide
 	url = https://github.com/shaijujohn1974/retail-b2c-developerguide.git
 	branch = main
+[submodule "retail-b2c-verificationlogs"]
+	path = retail-b2c-verificationlogs
+	url = https://github.com/shaijujohn1974/retail-b2c-verificationlogs.git
+	branch = main
