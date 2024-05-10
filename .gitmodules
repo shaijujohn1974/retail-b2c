@@ -6,3 +6,7 @@
 	path = retail-b2c-sellerapp
 	url = https://github.com/shaijujohn1974/retail-b2c-sellerapp.git
 	branch = main
+[submodule "retail-b2c-apispec"]
+	path = retail-b2c-apispec
+	url = https://github.com/shaijujohn1974/retail-b2c-apispec.git
+	branch = main
